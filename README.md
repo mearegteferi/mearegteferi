@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Meareg Teferi</h1>
 
-<!--
-**mearegteferi/mearegteferi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>A passionate Software Engineer based in Ethiopia 🇪🇹</em><br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 💻 Python, JavaScript
+- ⚙️ Django, React, Odoo
+- 🗃️ PostgreSQL, MySQL
+- ☁️ AWS, Docker
+- 🎨 Tailwind CSS, Material UI
+
+---
+
+### 💼 Projects
+- 🗑️ **Waste Management System for Mekelle City**  
+  Web app for city waste tracking using Django, React & PostgreSQL
+
+- 🍽️ **Sofi Restaurant System**  
+  Online food ordering and table booking with Django, React & MySQL
+
+---
+
+### 🎓 Education
+**BSc in Software Engineering**  
+Mekelle University (GPA: 3.81 / 4.0)  
+Exit Exam: 82%
+
+---
+
+### 🌱 Currently Learning
+DevOps practices, CI/CD workflows, and advanced full-stack patterns.
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [mearegbuna@gmail.com](mailto:mearegbuna@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/meareg-teferi-b462822aa](https://linkedin.com/in/meareg-teferi-b462822aa)  
+- 🧑‍💻 GitHub: [github.com/mearegteferi](https://github.com/mearegteferi)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mearegteferi&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mearegteferi&theme=tokyonight" />
+</p>
