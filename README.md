@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 - 💻 Python, JavaScript
-- ⚙️ Django, React, Odoo
+- ⚙️ Django, FastAPI, React, Odoo
 - 🗃️ PostgreSQL, MySQL
 - ☁️ AWS, Docker
 - 🎨 Tailwind CSS, Material UI
