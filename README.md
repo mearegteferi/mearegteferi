@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **results-driven Software Engineer** with strong experience in **Python, Django, FastAPI, and React**.  
+I’m a **Software Engineer** with strong experience in **Python, Django, FastAPI, and React**.  
 I specialize in building **high-performance APIs**, **clean architectures**, and **maintainable full-stack applications**.
 
 I enjoy solving complex problems, optimizing system performance, and continuously improving my technical skills to deliver software that creates real value.
