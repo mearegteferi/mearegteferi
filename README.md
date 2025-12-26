@@ -1,77 +1,77 @@
-<h1 align="center">Hi 👋, I'm Meareg Teferi</h1>
+# Hi there, I'm Meareg Teferi Fentaw 👋
+### Software Engineer | Full-Stack Developer
 
-<p align="center">
-  <strong>Software Engineer | Python & Full-Stack Developer</strong><br/>
-  <em>Building scalable backend systems and modern web applications</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethiopia-Addis%20Ababa-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Growth-Driven-orange?style=flat-square" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I’m a **results-driven Software Engineer** specializing in **Python, FastAPI, and React**. I focus on building high-performance APIs and clean, maintainable architectures. With a GPA of 3.81 and a passion for system design, I bridge the gap between complex backend logic and seamless user experiences.
+Passionate Software Engineer based in Ethiopia with a focus on building fast, reliable APIs and modern, user-friendly web applications. I specialize in designing clean architectures, improving performance, and writing scalable code.
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white) |
-| **Database/DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pydantic](https://img.shields.io/badge/Pydantic-e92063?style=for-the-badge&logo=pydantic&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=Traefik&logoColor=white) |
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-**Junior Software Developer | Niyat Consultancy**  
-*May 2025 – Present*
-- Architecting backend services using **FastAPI and Django**.
-- Developing responsive frontends with **React & Tailwind**.
-- Optimizing database queries and containerizing workflows with **Docker**.
+**Junior Software Developer | NIyat Consultancy**  
+*May 2025 – Present | Addis Ababa, Ethiopia*
 
----
-
-### 🚀 Featured Projects
-
-*   **[Waste Management System](https://github.com/mearegteferi/waste-management-system)**: Automated reporting and scheduling for Mekelle City. *(Django, React, PostgreSQL)*
-*   **[Skill Hub](https://github.com/mearegteferi/skill-hub)**: Hyper-local marketplace connecting service providers. *(FastAPI, SQLModel, Docker)*
-*   **[Sofi eCommerce](https://github.com/mearegteferi/sofi-ecommerce)**: Production-ready store with OAuth2 & Pydantic validation. *(React, FastAPI, SQLAlchemy)*
+*   Developing robust software solutions using **Python (Django and FastAPI)** for scalable backend services.
+*   Building dynamic and responsive user interfaces using **JavaScript (React)**.
+*   Collaborating on the full software development lifecycle to deliver high-quality, maintainable code.
 
 ---
 
-### 🎓 Education & Certs
+### 🚀 Projects
 
-- **BSc in Software Engineering** | Mekelle University (2024) — *GPA: 3.81/4.0*
-- **Udacity Nanodegree** | Programming Fundamentals (DSA & OOP)
+#### 1. Waste Management System For Mekelle City (Thesis Project)
+A comprehensive web application designed for city officials to manage waste collection reports, schedules, and administrative tasks.
+*   **Tech:** Python, Django, React, PostgreSQL, Git.
+*   [🔗 View Repository](https://github.com/mearegteferi/waste-management-system) <!-- Replace with actual link -->
+
+#### 2. Sofi Restaurant
+An online food ordering platform where users can browse menus, book tables, and manage orders.
+*   **Tech:** JavaScript, React, Django, MongoDB, Djoser.
+*   [🔗 View Repository](https://github.com/mearegteferi/sofi-restaurant) <!-- Replace with actual link -->
+
+#### 3. Skill Hub (In Progress) 🚧
+A hyper-local marketplace connecting people for small jobs with trusted neighbors.
+*   **Tech:** FastAPI, Sqlmodel, Alembic, React, Tailwindcss, Docker, Traefik.
+*   [🔗 View Repository](https://github.com/mearegteferi/skill-hub) <!-- Replace with actual link -->
+
+#### 4. Sofi eCommerce (In Progress) 🚧
+A production-ready e-commerce platform featuring secure authentication and modern UI.
+*   **Tech:** FastAPI, SQLAlchemy, Pydantic, React, MaterialUI, OAuth2, Docker.
+*   [🔗 View Repository](https://github.com/mearegteferi/sofi-ecommerce) <!-- Replace with actual link -->
 
 ---
 
-### 📫 Connect with Me
+### 🎓 Education & Certifications
 
-<p align="left">
-<a href="mailto:mearegbuna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/meareg-teferi-b462822aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mearegteferi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+*   **B.Sc. in Software Engineering** | University of Mekelle (Nov 2024)
+    *   *GPA: 3.81/4.0 | Exit Exam: 82%*
+*   **Programming Fundamentals Nanodegree** | Udacity (Sept 2024)
+    *   *Core focus on Python, Data Structures, Algorithms, and OOP.*
 
 ---
 
-### 📊 My Stats
+### 💬 Languages
+*   **Amharic:** Native/Fluent
+*   **Tigrigna:** Native/Fluent
+*   **English:** Professional Working Proficiency
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mearegteferi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearegteferi&layout=compact&theme=tokyonight" />
-</p>
+---
 
-<p align="center">
-  <em>“Write code that humans can understand.”</em>
-</p>
+### 📫 Let's Connect!
+*   **Email:** [mearegbuna@gmail.com](mailto:mearegbuna@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/meareg-teferi](https://linkedin.com/in/meareg-teferi-b462822aa)
+*   **GitHub:** [github.com/mearegteferi](https://github.com/mearegteferi)
+
+---
+*“Always learning, always coding.”*
