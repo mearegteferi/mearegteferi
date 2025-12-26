@@ -19,32 +19,7 @@ I specialize in building **high-performance APIs**, **clean architectures**, and
 I enjoy solving complex problems, optimizing system performance, and continuously improving my technical skills to deliver software that creates real value.
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-- **Python**, **JavaScript**, **TypeScript**
-- SQL
-
-### Backend
-- **FastAPI**, **Django**
-- SQLAlchemy, SQLModel, Alembic
-- JWT, OAuth2, Pydantic
-
-### Frontend
-- **React**
-- Tailwind CSS, Material UI, Chakra UI
-
-### Databases
-- **PostgreSQL**
-- MySQL, MongoDB
-
-### DevOps & Tools
-- Docker, Traefik
-- Git & GitHub
-- Playwright (Testing)
-- AWS (Basics)
-
+<table> <tr> <td valign="top" width="20%"><strong>Languages</strong></td> <td valign="top" width="20%"><strong>Backend</strong></td> <td valign="top" width="20%"><strong>Frontend</strong></td> <td valign="top" width="20%"><strong>Databases</strong></td> <td valign="top" width="20%"><strong>DevOps & Tools</strong></td> </tr> <tr> <td valign="top"> • Python<br/> • JavaScript<br/> • TypeScript<br/> • SQL </td> <td valign="top"> • FastAPI<br/> • Django<br/> • SQLAlchemy<br/> • SQLModel<br/> • Alembic<br/> • Pydantic<br/> • JWT / OAuth2 </td> <td valign="top"> • React<br/> • Tailwind CSS<br/> • Material UI<br/> • Chakra UI </td> <td valign="top"> • PostgreSQL<br/> • MySQL<br/> • MongoDB </td> <td valign="top"> • Docker<br/> • Traefik<br/> • Git & GitHub<br/> • Playwright<br/> • AWS (Basics) </td> </tr> </table>
 ---
 
 ## 💼 Professional Experience
